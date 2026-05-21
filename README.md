@@ -20,7 +20,7 @@
 
 ⚡ Building projects using **Flutter, React, Node.js, Java and MongoDB**
 
-📫 Reach me: **your-email@gmail.com**
+📫 Reach me: **vikalp1077@gmail.com**
 
 ---
 
