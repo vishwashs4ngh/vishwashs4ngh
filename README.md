@@ -1,10 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,50:7F00FF,100:FC466B&text=Vishwash%20Singh&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Full%20Stack%20Developer%20•%20Problem%20Solver&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Vishwash%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Full%20Stack%20Developer%20•%20CSE%20Student&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Building+Beautiful+Flutter+Apps;Full+Stack+Web+Developer;Java+%7C+React+%7C+Node.js;Learning+Data+Science+and+AI;Always+Creating+Something+New+🚀"/>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&random=false&width=700&lines=Crafting+Beautiful+Mobile+Experiences;Building+Modern+Full+Stack+Applications;Exploring+Data+Science+%26+AI;Always+Learning+Something+New+🚀" />
+<div align="center">
+
+### 👨‍💻 About Me
+
+🎓 Computer Science Engineering Student
+
+📱 Flutter Developer passionate about crafting smooth mobile experiences
+
+🌐 Building modern web applications with React & Node.js
+
+📊 Exploring Data Science, Machine Learning and AI
+
+🚀 Open to collaborations and exciting projects
+
+📧 **vikalp1077@gmail.com**
 
 </div>
 
@@ -12,19 +30,9 @@
 
 <div align="center">
 
-# 👨‍💻 Digital Playground
+## ⚡ Tech Arsenal
 
-💡 Turning ideas into scalable applications
-
-📱 Flutter Enthusiast
-
-🌐 Full Stack Developer
-
-📊 Data Science Explorer
-
-⚡ Open Source Learner
-
-📍 India
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,java,python,mongodb,sqlite,html,css,git,github,vscode,firebase&perline=5" />
 
 </div>
 
@@ -32,44 +40,18 @@
 
 <div align="center">
 
-## ⚔️ Tech Stack
+## 🌍 Connect With Me
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,java,python,mongodb,firebase,sqlite,html,css,git,github,vscode&perline=5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Currently Working On
-
-🔹 Cross Platform Flutter Apps
-
-🔹 Full Stack Web Projects
-
-🔹 Data Analytics & Machine Learning
-
-🔹 Open Source Contributions
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
 <a href="mailto:vikalp1077@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -78,17 +60,9 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -96,16 +70,16 @@
 
 <div align="center">
 
-### ✨ Visitor Counter
+### 💭 Developer Quote
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FC466B,50:7F00FF,100:00C9FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=120&section=footer"/>
 
 </div>
